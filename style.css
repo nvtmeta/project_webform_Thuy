@@ -1,0 +1,49 @@
+﻿/* Define custom styles for GridView */
+.grid-view {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .grid-view th,
+    .grid-view td {
+        border: 1px solid #ddd; /* Add borders to table cells */
+        padding: 8px;
+        text-align: left;
+    }
+
+    .grid-view th {
+        background-color: #f2f2f2; /* Add background color to header cells */
+    }
+
+    .grid-view tr:nth-child(even) {
+        background-color: #f2f2f2; /* Alternate row background color */
+    }
+
+    .grid-view tr:hover {
+        background-color: #ddd; /* Hover effect for rows */
+    }
+
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    width: 200px;
+    margin: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .product-card img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .product-card h3 {
+        font-size: 18px;
+        margin-top: 8px;
+    }
+
+    .product-card p {
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 8px;
+    }
