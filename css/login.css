@@ -1,0 +1,112 @@
+*{
+  box-sizing: inherit;
+}
+
+html{
+  line-height: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+
+.content{
+  width: 100%;
+  height: 100%;
+}
+.bg{
+  max-width: 100%;
+  height: 600px;
+  background: url(img/bg-main.jpg) top center /cover;
+  position: relative;
+}
+.bg-content{
+
+  background: rgba(0,0,0,0.2);
+  height: 100%;
+
+}
+
+.bg-content-first{
+  background-color: rgba(0,0,0,0.7) ;
+  height: auto;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  border-radius: 20px;
+  transform: translate(-50%,-40%);
+  box-shadow: rgba(0,0,0,0.2);
+
+}
+.bg-content-first-general{
+  margin: 30px;
+
+
+}
+.login_name{
+  display: flex;
+  padding: 10px;
+
+}
+.login_name span:last-child{
+  padding-left: 10px;
+}
+.login_name span:first-child{
+  height: 44px;
+  width: 4px;
+  background-color: lightseagreen;
+
+
+}
+.login_tittle{
+  font-size: 40px;
+  color: white;
+  font-weight: 600;
+}
+.login_name span:first-child{
+
+
+}
+.login_name span i{
+  padding: 15px;
+  color: white;
+  background-color: lightseagreen;
+
+}
+.login_name input{
+  padding: 10px;
+  background-color: rgba(0,0.4,0.4,0.6);
+  border: none;
+  width: 400px;
+  border-radius: 0 10px 10px 0;
+  color: white;
+}
+.button_login{
+  padding: 20px 0px 0px 100px;
+
+}
+.button_login button{
+  padding: 15px 100px;
+  background-color: rgba(0,0.4,0.4,0.6);
+  color: #f1f1f1;
+
+
+
+  font-weight: 600;
+  border: 1px solid whitesmoke;
+}
+.login_name:last-child{
+  justify-content: center;
+  color: white;
+  margin-top: 5px;
+}
+.login_name>a{
+
+  padding-left: 5px;
+}
+.button_login button:hover{
+  box-shadow: rgba(0, 0, 0, 5) 0px 0px 10px;
+  border: none;
+}
+footer{
+  margin-top: 0 !important;
+}
