@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\C#6\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|d:\\c#6\\webapplication1\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|d:\\c#6\\webapplication1\\products2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:products2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|d:\\c#6\\webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|d:\\c#6\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|d:\\c#6\\webapplication1\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|d:\\c#6\\webapplication1\\checkout_done.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:checkout_done.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|d:\\c#6\\webapplication1\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\products2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:products2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\checkout_done.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:checkout_done.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|solutionrelative:default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2A668E7-21BB-4DFF-BAA6-546D81097031}|WebApplication7.csproj|D:\\C#6\\WebApplication1\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
@@ -114,32 +122,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Products2.aspx",
-              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Products2.aspx",
-              "RelativeDocumentMoniker": "Products2.aspx",
-              "ToolTip": "D:\\C#6\\WebApplication1\\Products2.aspx",
-              "RelativeToolTip": "Products2.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-15T08:17:18.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.aspx",
-              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Product.aspx",
-              "RelativeDocumentMoniker": "Product.aspx",
-              "ToolTip": "D:\\C#6\\WebApplication1\\Product.aspx",
-              "RelativeToolTip": "Product.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-15T08:13:15.332Z",
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\C#6\\WebApplication1\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:50:20.081Z",
               "EditorCaption": ""
             },
             {
@@ -157,46 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CheckOut_Done.aspx",
-              "DocumentMoniker": "D:\\C#6\\WebApplication1\\CheckOut_Done.aspx",
-              "RelativeDocumentMoniker": "CheckOut_Done.aspx",
-              "ToolTip": "D:\\C#6\\WebApplication1\\CheckOut_Done.aspx",
-              "RelativeToolTip": "CheckOut_Done.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-15T08:08:35.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CheckOut.aspx",
-              "DocumentMoniker": "D:\\C#6\\WebApplication1\\CheckOut.aspx",
-              "RelativeDocumentMoniker": "CheckOut.aspx",
-              "ToolTip": "D:\\C#6\\WebApplication1\\CheckOut.aspx",
-              "RelativeToolTip": "CheckOut.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-15T08:02:03.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShoppingCart.aspx",
-              "DocumentMoniker": "D:\\C#6\\WebApplication1\\ShoppingCart.aspx",
-              "RelativeDocumentMoniker": "ShoppingCart.aspx",
-              "ToolTip": "D:\\C#6\\WebApplication1\\ShoppingCart.aspx",
-              "RelativeToolTip": "ShoppingCart.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-15T08:00:45.804Z",
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "D:\\C#6\\WebApplication1\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:40:12.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Home.aspx",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Home.aspx",
               "RelativeDocumentMoniker": "Home.aspx",
@@ -209,7 +178,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "D:\\C#6\\WebApplication1\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:23:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckOut_Done.aspx",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\CheckOut_Done.aspx",
+              "RelativeDocumentMoniker": "CheckOut_Done.aspx",
+              "ToolTip": "D:\\C#6\\WebApplication1\\CheckOut_Done.aspx",
+              "RelativeToolTip": "CheckOut_Done.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T08:08:35.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckOut.aspx",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\CheckOut.aspx",
+              "RelativeDocumentMoniker": "CheckOut.aspx",
+              "ToolTip": "D:\\C#6\\WebApplication1\\CheckOut.aspx",
+              "RelativeToolTip": "CheckOut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T08:02:03.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCart.aspx",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\ShoppingCart.aspx",
+              "RelativeDocumentMoniker": "ShoppingCart.aspx",
+              "ToolTip": "D:\\C#6\\WebApplication1\\ShoppingCart.aspx",
+              "RelativeToolTip": "ShoppingCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T08:00:45.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Bundle.config",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Bundle.config",
               "RelativeDocumentMoniker": "Bundle.config",
@@ -221,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
@@ -233,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Site.Master",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Site.Master",
               "RelativeDocumentMoniker": "Site.Master",
@@ -245,19 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Site.Mobile.Master",
-              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Site.Mobile.Master",
-              "RelativeDocumentMoniker": "Site.Mobile.Master",
-              "ToolTip": "D:\\C#6\\WebApplication1\\Site.Mobile.Master",
-              "RelativeToolTip": "Site.Mobile.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-14T05:18:06.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Default.aspx",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
@@ -270,6 +276,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Product.aspx",
+              "RelativeDocumentMoniker": "Product.aspx",
+              "ToolTip": "D:\\C#6\\WebApplication1\\Product.aspx",
+              "RelativeToolTip": "Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T08:13:15.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products2.aspx",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Products2.aspx",
+              "RelativeDocumentMoniker": "Products2.aspx",
+              "ToolTip": "D:\\C#6\\WebApplication1\\Products2.aspx",
+              "RelativeToolTip": "Products2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T08:17:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Site.Mobile.Master",
+              "ToolTip": "D:\\C#6\\WebApplication1\\Site.Mobile.Master",
+              "RelativeToolTip": "Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T05:18:06.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Default.aspx.designer.cs",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Default.aspx.designer.cs",
               "RelativeDocumentMoniker": "Default.aspx.designer.cs",
@@ -281,19 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "D:\\C#6\\WebApplication1\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "Default.aspx.cs",
-              "ToolTip": "D:\\C#6\\WebApplication1\\Default.aspx.cs",
-              "RelativeToolTip": "Default.aspx.cs",
-              "ViewState": "AQIAAA0AAABAZmZmZsY6wBQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T07:23:15.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ViewSwitcher.ascx",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\ViewSwitcher.ascx",
               "RelativeDocumentMoniker": "ViewSwitcher.ascx",
@@ -305,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
@@ -317,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
@@ -329,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\favicon.ico",
               "RelativeDocumentMoniker": "favicon.ico",
@@ -339,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Site.css",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Content\\Site.css",
               "RelativeDocumentMoniker": "Content\\Site.css",
@@ -351,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Site.Master.cs",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Site.Master.cs",
               "RelativeDocumentMoniker": "Site.Master.cs",
@@ -363,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "style.css",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\style.css",
               "RelativeDocumentMoniker": "style.css",
@@ -375,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
@@ -387,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Contact.aspx",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Contact.aspx",
               "RelativeDocumentMoniker": "Contact.aspx",
@@ -399,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\model\\Product.cs",
               "RelativeDocumentMoniker": "model\\Product.cs",
@@ -411,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "About.aspx",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\About.aspx",
               "RelativeDocumentMoniker": "About.aspx",
@@ -423,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Site.Master.designer.cs",
               "DocumentMoniker": "D:\\C#6\\WebApplication1\\Site.Master.designer.cs",
               "RelativeDocumentMoniker": "Site.Master.designer.cs",

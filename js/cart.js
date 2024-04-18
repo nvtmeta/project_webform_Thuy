@@ -1,5 +1,5 @@
 // SELECT ELEMENTS
-const productsEl = document.querySelector(".products");
+// const productsEl = document.querySelector(".products");
 const cartItemsEl = document.querySelector(".cart-items");
 const subtotalEl = document.querySelector(".card-total");
 const totalItemsInCartEl = document.querySelector(".total-items-in-cart");
@@ -20,43 +20,43 @@ closeShopping.addEventListener('click',function (e){
 
 })
 // in ra sản phẩm có trong mảng được định danh
-function renderProducts() {
-    // gọi từ mảng products được định danh sẵn
-    products.forEach((product) => {
-        // chạy vòng for lặp lại để in ra danh sách sản phẩm
-        if (productsEl){
-            const sale = product.sale > 0 ? "" : "d-none";
-            const prd_new = product.new == 1 ? "" : "d-none";
-            productsEl.innerHTML += ` 
-            <li>
-                <div class="product-item">            
-                    <div class="product-top">
+// function renderProducts() {
+//     // gọi từ mảng products được định danh sẵn
+//     products.forEach((product) => {
+//         // chạy vòng for lặp lại để in ra danh sách sản phẩm
+//         if (productsEl){
+//             const sale = product.sale > 0 ? "" : "d-none";
+//             const prd_new = product.new == 1 ? "" : "d-none";
+//             productsEl.innerHTML += ` 
+//             <li>
+//                 <div class="product-item">            
+//                     <div class="product-top">
                         
-                        <div class="home-product-item_sale-off ${sale}">
-                            <span class="home-product-item_sale-off-percent">${product.sale}%</span>
-                            <span class="home-product-item_sale-off-label">SALE OFF</span>
-                            <span class="home-product-item_sale-off-tail"></span>
-                        </div>
-                        <div class="home-product-item_new ${prd_new}">
-                            <span class="home-product-item_new">NEW</span>
-                        </div>
-                        <a href="javascript:void(0)" class="product-thumb">
-                            <img src="${product.imgSrc}" alt="${product.name}">
-                        </a>
-                        <a href="javascript:void(0)" onclick="addToCart(${product.id})" class="buy-now"><i class="fas fa-cart-plus"></i></a>
-                    </div>
-                    <div class="product-infor">
-                        <a href="" class="product-cat">${product.description}</a>
-                        <a href="" class="product-name">${product.name}</a>
-                        <div class="product-price text-danger">$ ${product.price}</div>
-                    </div>
-                </div>
-            </li>
-        `;
-        }
-    });
-}
-renderProducts();
+//                         <div class="home-product-item_sale-off ${sale}">
+//                             <span class="home-product-item_sale-off-percent">${product.sale}%</span>
+//                             <span class="home-product-item_sale-off-label">SALE OFF</span>
+//                             <span class="home-product-item_sale-off-tail"></span>
+//                         </div>
+//                         <div class="home-product-item_new ${prd_new}">
+//                             <span class="home-product-item_new">NEW</span>
+//                         </div>
+//                         <a href="javascript:void(0)" class="product-thumb">
+//                             <img src="${product.imgSrc}" alt="${product.name}">
+//                         </a>
+//                         <a href="javascript:void(0)" onclick="addToCart(${product.id})" class="buy-now"><i class="fas fa-cart-plus"></i></a>
+//                     </div>
+//                     <div class="product-infor">
+//                         <a href="" class="product-cat">${product.description}</a>
+//                         <a href="" class="product-name">${product.name}</a>
+//                         <div class="product-price text-danger">$ ${product.price}</div>
+//                     </div>
+//                 </div>
+//             </li>
+//         `;
+//         }
+//     });
+// }
+// renderProducts();
 
 // Lấy dữ liệu từ trên local storage xuống theo key "CART"
 let cart = JSON.parse(localStorage.getItem("CART")) || [];

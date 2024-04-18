@@ -15,8 +15,8 @@ namespace WebApplication7
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string connectionString = "Server=localhost\\SQLEXPRESS;Database=webform_fake;Trusted_Connection=True;TrustServerCertificate=true;";
-            string sql = "SELECT ProductID, ProductName, Price FROM Products"; // Replace with your actual query
+            string connectionString = "Server=localhost\\SQLEXPRESS;Database=db_ECommerceShop;Trusted_Connection=True;TrustServerCertificate=true;";
+            string sql = "SELECT id, name, price FROM Products"; // Replace with your actual query
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
@@ -37,9 +37,9 @@ namespace WebApplication7
                 while (reader.Read())
                 {
                     // Create a product card HTML string dynamically
-                    string productId = reader["ProductID"].ToString();
-                    string productName = reader["ProductName"].ToString();
-                    string price = reader["Price"].ToString();
+                    string productId = reader["id"].ToString();
+                    string productName = reader["name"].ToString();
+                    string price = reader["price"].ToString();
 
                     string productCardHtml = $@"
                     <div class='product-card'>

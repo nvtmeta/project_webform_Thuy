@@ -141,7 +141,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <script>
     // Tạo mảng chứa tài khoản và mật khẩu với vị trí tài khoản và mật khẩu tương ứng
-    var available_user_name = Array("namdo","nguyenmy","linhleo"),
+  var available_user_name = Array("namdo","nguyenmy","linhleo"),
         available_user_pass = Array("123456","123456","123456");
     const form = document.querySelector('.login-form');
     const err_msg = document.getElementById('error_msg');
